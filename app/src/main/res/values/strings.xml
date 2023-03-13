@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HelloWorld_0320210079</string>
+    <string name="nim_toast">Hello My NIM is 0320210079</string>
+    <string name="nama_toast">Hello My Name is Youmal Dwi Santoso</string>
+    <string name="tanggal_toast">Hello the Date is </string>
+
+
+    <string name="nim">NIM</string>
+    <string name="nama">Nama</string>
+    <string name="tanggal">Date </string>
+    <string name="hello">Hello World !</string>
+
+</resources>
